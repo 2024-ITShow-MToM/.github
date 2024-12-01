@@ -9,12 +9,12 @@
 > 
 
 ## 📝 Skill
-
-| **Front** | `ReactJS`, `Redux`, `Axios`  |
+|  | 기술스택 |
 | --- | --- |
+| **Front** | `ReactJS`, `Redux`, `Axios`  |
 | **Back** | `Spring boot` `Java17` `SpringData JPA`  `Websocket` |
 | **Data base** | `MySQL` `Redis` |
-| **IDE/Deploy** | `IntelliJ IDEA 2023` `Postman API Platform` `DBeaver` `Docker`  `AWS(S3, EC2, RDS)` |
+| **IDE/Deploy** | `Vscode` `IntelliJ IDEA 2023` `Postman API Platform` `DBeaver` `Docker`  `AWS(S3, EC2, RDS)` |
 | **API, 라이브러리**  | `RESTful API` `RedisTemplate` |
 
 ## 📜 기능 설명
